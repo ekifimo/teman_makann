@@ -2,5 +2,10 @@
     <string name="app_name">Teman Makan</string>
     <string name="text">Wellcome to my test app</string>
     <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="layoutpassword">Password</string>
+    <string name="lupaPass"><u>Forgot Password?</u></string>
+    <string name="daftar"><u>Register</u></string>
     <string name="todo">TODO</string>
 </resources>
